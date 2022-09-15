@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Back-end Developer
 ------------------
 
-I'm a back-end developer who loves learn new stuff. i love reading books and Improvisational theatre.
+I'm a back-end developer who loves learning new stuff. i love reading books and Improvisational theatre.
 
 * ✉️  You can contact me at [willicastilloo@gmail.com](mailto:willicastilloo@gmail.com)
 * 🧠  I'm learning Data Structures and algorithms
