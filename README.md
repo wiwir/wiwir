@@ -6,7 +6,7 @@ Back-end Developer
 
 I'm a back-end developer who loves learn new stuff. i love reading books and Improvisational theatre.
 
-* 🖥️  See my portfolio at [Wiwi.dev](https://wiwi.dev)
+* 🖥️  See my portfolio at [wiwi.dev](https://wiwi.dev)
 * ✉️  You can contact me at [willicastilloo@gmail.com](mailto:willicastilloo@gmail.com)
 * 🧠  I'm learning Data Structures and algorithms
 * ⚡  I'm Storm Trooper from Tokyo blues, Haruki Murakami.
